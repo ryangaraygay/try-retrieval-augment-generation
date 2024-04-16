@@ -1,0 +1,8 @@
+unstructured
+langchain_community
+langchain
+openai
+tiktoken
+faiss-gpu
+langchain_experimental
+langchain[docarray]
